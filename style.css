@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin: auto;
+}
+
+nav{
+  text-align: center;
+}
+
+figcaption{
+  text-align: center;
+  font-size: 12px;
+}
+
+nav a{
+  padding: 0 10px;
+  background-color: grey;
+  margin: 0 auto;
+}
